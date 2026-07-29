@@ -8,7 +8,7 @@ A browser-native platform for teaching, simulating, and automating networking be
 [![CI](https://github.com/joxorsayan/netsim/actions/workflows/ci.yml/badge.svg)](https://github.com/joxorsayan/netsim/actions/workflows/ci.yml)
 [![NetDevOps](https://github.com/joxorsayan/netsim/actions/workflows/netdevops.yml/badge.svg)](https://github.com/joxorsayan/netsim/actions/workflows/netdevops.yml)
 
-![Topology editor and CLI experience](docs/img/hero-cli.png)
+
 
 ## Overview
 
