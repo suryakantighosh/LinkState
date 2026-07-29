@@ -128,6 +128,9 @@ docker compose up --build
 
 ## API overview
 
+<img width="1536" height="1024" alt="Request Lifecycle" src="https://github.com/user-attachments/assets/832e9250-e61d-43b3-ad08-b191ffc95ac6" />
+
+
 The application exposes REST endpoints for:
 
 - topology management
