@@ -15,6 +15,7 @@ A browser-native platform for teaching, simulating, and automating networking be
 LinkState is an open-source networking simulation and education platform designed for hands-on learning, rapid prototyping, and network automation experimentation. It combines a deterministic network engine with a browser-based interface so users can build topologies, configure devices, run reachability tests, export captures, and explore networking behavior without requiring a full lab environment.
 
 The platform is intentionally practical: it emphasizes explainability, reproducibility, and educational value while supporting advanced use cases such as labs-as-code, state validation, and AI-assisted troubleshooting.
+<img width="1402" height="1122" alt="Module Architecture" src="https://github.com/user-attachments/assets/7135ad15-6ff8-497f-87b1-2c59cd3b64fc" />
 
 ## Why this project exists
 
